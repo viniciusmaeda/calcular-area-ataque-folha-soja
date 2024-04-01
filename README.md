@@ -7,5 +7,5 @@ Programa desenvolvido para uma atividade da disciplina de Visão Computacional (
 O programa tem por objetivo calcular a área atacada por pragas em folhas de soja. O programa irá mostrar o resultado em centímetros quadrados e em porcentagem.
 
 ## Versões das bibliotecas
-OpenCV: 4.9.0
-Numpy: 1.21.5
+- OpenCV: 4.9.0
+- Numpy: 1.21.5
